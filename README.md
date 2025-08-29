@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! 🚀
 This project showcases my skills, background, and projects in healthcare, media, and technology.
 
 ## 🌐 Live Demo
-[View Portfolio on Netlify](https://your-site-name.netlify.app/)
+[View Portfolio on Netlify](http://bit.ly/3HVUPQI)
 
 ## 📌 Features
 - Responsive design (works on desktop & mobile)
